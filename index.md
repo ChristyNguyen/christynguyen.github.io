@@ -4,17 +4,17 @@ layout: default
 
 # [](#projects)My Projects
 
-[Smart Light (Proof of Concept)](smart-light)
+### [Smart Light (Proof of Concept)](smart-light)
 
 Utilized a Raspberry Pi running Python 
 * * *
 
-[dotfiles Installation Script](dotfiles-script)
+### [dotfiles Installation Script](dotfiles-script)
 
 Utilized Bash
 * * *
 
-[Jekyll Portfolio](jekyll-portfolio)
+### [Jekyll Portfolio](jekyll-portfolio)
 
-Utilized Ruby, Jekyll, Markdown, and CSS.
+Utilized Ruby, Jekyll, Markdown, and CSS
 * * *
